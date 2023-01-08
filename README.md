@@ -1,6 +1,4 @@
-- 👋 Hi, I’m @reidisbot
-- 👀 I’m interested in learning to code in any way I don't already know
-- 🌱 I’m currently learning C
+- Mortal enemies with @combathax
 
 <!---
 reidisbot/reidisbot is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
